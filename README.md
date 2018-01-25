@@ -1,10 +1,10 @@
 # SkyStar
   
   
-## SkyStar.io   
+## SkyStar.IO   
   
   
-## Blockchain
+### Blockchain
   
   
 Website is being developed...
